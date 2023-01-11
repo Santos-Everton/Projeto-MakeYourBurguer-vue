@@ -77,5 +77,98 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "asdqwsqwsqwsqwsqws",
+      "pao": "Integral",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Bacon",
+        "Cheddar",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "asd",
+      "pao": "3 Queijos",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Bacon",
+        "Tomate",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 2
+    },
+    {
+      "nome": "A casa do dragão ",
+      "pao": "Integral",
+      "carne": "Maminha",
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 3
+    },
+    {
+      "nome": "ton",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "opcionais": [
+        "Salame",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 4
+    },
+    {
+      "nome": "ton",
+      "pao": "Italiano Branco",
+      "carne": "Veggie burger",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Solicitado",
+      "id": 5
+    },
+    {
+      "nome": "ton",
+      "pao": "Parmesão e Orégano",
+      "carne": "Maminha",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    },
+    {
+      "nome": "ton",
+      "pao": "Italiano Branco",
+      "carne": "Maminha",
+      "opcionais": [
+        "Cebola roxa",
+        "Tomate",
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 7
+    },
+    {
+      "nome": "ton 5",
+      "pao": "Italiano Branco",
+      "carne": "Picanha",
+      "opcionais": [
+        "Cebola roxa",
+        "Tomate",
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 8
+    }
+  ]
 }
